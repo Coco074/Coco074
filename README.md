@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Coco074
-- 👀 I’m interested in embedded systems and development 
-- 🌱 I’m currently learning computer systems engineering
-- 💞️ I’m looking to create some personal projects
-- 📫 How to reach me cturjuman@gmail.com
+- 👋 Hi, I’m Christian!
+- 🌱 I’m currently studing Computer Engineering @TMU
+- 👀 I’m currently interested in embedded systems, electronics and computer architecture! 
 
 <!---
 Coco074/Coco074 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
